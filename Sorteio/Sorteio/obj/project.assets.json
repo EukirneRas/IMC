@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\IMC\\IMC\\IMC.csproj",
-      "projectName": "IMC",
-      "projectPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\IMC\\IMC\\IMC.csproj",
+      "projectUniqueName": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\Hello Word\\Sorteio\\Sorteio\\Sorteio.csproj",
+      "projectName": "Sorteio",
+      "projectPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\Hello Word\\Sorteio\\Sorteio\\Sorteio.csproj",
       "packagesPath": "C:\\Users\\Hader\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\IMC\\IMC\\obj\\",
+      "outputPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\Hello Word\\Sorteio\\Sorteio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hader\\AppData\\Roaming\\NuGet\\NuGet.Config",

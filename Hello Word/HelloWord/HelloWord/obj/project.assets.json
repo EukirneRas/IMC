@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\IMC\\IMC\\IMC.csproj",
-      "projectName": "IMC",
-      "projectPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\IMC\\IMC\\IMC.csproj",
+      "projectUniqueName": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\Hello Word\\HelloWord\\HelloWord\\HelloWord.csproj",
+      "projectName": "HelloWord",
+      "projectPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\Hello Word\\HelloWord\\HelloWord\\HelloWord.csproj",
       "packagesPath": "C:\\Users\\Hader\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\IMC\\IMC\\obj\\",
+      "outputPath": "C:\\Users\\Hader\\OneDrive\\Documentos\\Bootcamp\\C#\\Hello Word\\HelloWord\\HelloWord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hader\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
